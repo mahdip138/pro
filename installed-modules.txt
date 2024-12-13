@@ -1,0 +1,9 @@
+Django
+django_apscheduler
+psycopg2
+db : postgrese
+ djangorestframework
+djangorestframework djangorestframework-simplejwt django-cors-headers django-ratelimit
+Pillow
+python-magic
+requests
